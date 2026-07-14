@@ -61,3 +61,10 @@ Dari 10 jenis penyakit yang diuji, 4 penyakit menunjukkan perbedaan jumlah kasus
 
 - Python (pandas, scipy, matplotlib)
 - Jupyter Notebook
+
+## Struktur Repository
+├── dataset.xlsx
+├── analisis_penyakit_jakarta.ipynb
+├── perbandingan_wilayah.png
+├── tren_waktu.png
+└── README.md

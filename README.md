@@ -41,23 +41,23 @@ Dari 10 jenis penyakit yang diuji, 4 penyakit menunjukkan perbedaan jumlah kasus
 
 ## Rekomendasi
 
-Jakarta Timur dapat menjadi prioritas program kesehatan masyarakat yang bersifat menyeluruh.
-Jakarta Pusat (Kusta) dan Jakarta Timur (Malaria) berpotensi diuntungkan dari intervensi yang lebih tertarget.
-Peningkatan tren Malaria perlu diinvestigasi lebih lanjut.
+- Jakarta Timur dapat menjadi prioritas program kesehatan masyarakat yang bersifat menyeluruh.
+- Jakarta Pusat (Kusta) dan Jakarta Timur (Malaria) berpotensi diuntungkan dari intervensi yang lebih tertarget.
+- Peningkatan tren Malaria perlu diinvestigasi lebih lanjut.
 
 ## Keterbatasan
 
-Data menggunakan angka kasus absolut, belum dinormalisasi terhadap jumlah penduduk per wilayah.
-Kepulauan Seribu dikecualikan dari uji statistik karena outlier demografis.
-Sample size relatif kecil (3 titik data per tahun per wilayah).
-Rumusan masalah #4 (korelasi DBD) tidak dieksplorasi karena DBD tidak signifikan pada uji statistik utama.
+- Data menggunakan angka kasus absolut, belum dinormalisasi terhadap jumlah penduduk per wilayah.
+- Kepulauan Seribu dikecualikan dari uji statistik karena outlier demografis.
+- Sample size relatif kecil (3 titik data per tahun per wilayah).
+- Rumusan masalah #4 (korelasi DBD) tidak dieksplorasi karena DBD tidak signifikan pada uji statistik utama.
 
 ## Pengembangan Lanjutan
 
-Normalisasi data terhadap jumlah penduduk per wilayah.
-Eksplorasi data multi-tahun yang lebih panjang untuk validasi tren.
+- Normalisasi data terhadap jumlah penduduk per wilayah.
+- Eksplorasi data multi-tahun yang lebih panjang untuk validasi tren.
 
 ## Tools
 
-Python (pandas, scipy, matplotlib)
-Jupyter Notebook
+- Python (pandas, scipy, matplotlib)
+- Jupyter Notebook
